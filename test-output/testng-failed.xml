@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Bannerimage.bannerscreen">
+      <class name="pys_Start.Buttons">
         <methods>
-          <include name="image"/>
+          <include name="demoTest"/>
         </methods>
-      </class> <!-- Bannerimage.bannerscreen -->
+      </class> <!-- pys_Start.Buttons -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
